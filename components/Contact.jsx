@@ -54,7 +54,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="https://maps.google.com"
+                href="https://www.google.com/maps/dir/?api=1&destination=A+B+CAFE+%26+EATERY+Gudur"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border border-white/20 hover:border-[#ff4d6d] transition px-8 py-4 rounded-full font-semibold"
